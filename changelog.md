@@ -2,4 +2,4 @@
 
 ### New Features
 
-* Search multiple profiles by default.
+* Added Brave Support
