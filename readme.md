@@ -9,7 +9,7 @@ This will search through the name of your bookmark and the URL. It will split yo
 
 ## Multiple or Single Profiles
 
-By default we will search *all of your profiles*, if you wish to just search one profile you can modify the profile path. If you open the workflow in Alfred you can double click the "Script Filter" to edit it. You can see a `PROFILE` item that points to the path of your profile. By default it looks like:
+By default it will search *all of your profiles*, if you wish to just search one profile you can modify the profile path. If you open the workflow in Alfred you can double click the "Script Filter" to edit it. You can see a `PROFILE` item that points to the path of your profile. By default it looks like:
 
 ~~~
 PROFILE="~/Library/Application Support/BraveSoftware/Brave-Browser/**/Bookmarks" php
