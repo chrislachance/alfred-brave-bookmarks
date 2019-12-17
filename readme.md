@@ -22,3 +22,7 @@ single path.
 For example:
 * `~/Library/Application Support/BraveSoftware/Brave-Browser/Default/Bookmarks`
 * `~/Library/Application Support/BraveSoftware/Brave-Browser/Profile 2/Bookmarks`
+
+## Provided as is
+
+This is my first fork of something, so if I've missed proper attributions, licensing, etc. really sorry about that.
